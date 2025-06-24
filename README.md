@@ -1,0 +1,3 @@
+# BREAKOUT GAME !  
+
+A simple game to teach basics of JavaScript...
